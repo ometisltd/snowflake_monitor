@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Qlik Snowflake Monitor",
+        "version": "v1.0.0",
+        "source": "https://github.com/ometisltd/qaa_generic_app_installer_snowflake/releases/download/snowflake/Qlik.Snowflake.Monitor.qvf",
+        "subscriptionTypes": ["capacity","user"]
+    }
+]
